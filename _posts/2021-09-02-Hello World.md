@@ -1,8 +1,8 @@
-ayout: post
-title: the first post of my blog
-tags: Life
+layout: post
+title: Testing MathJax
+tags: mathjax
 math: true
-date: 2021-09-02 22:26 +0800
+date: 2020-10-02 15:32 +0800
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=34033641&auto=1&height=66"></iframe>
 
