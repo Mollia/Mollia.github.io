@@ -3,6 +3,15 @@ layout: page
 title: About
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+**the garden of Mollia**is charotic but fantastic. 
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+
+
+I read and write until the last minute.
+
+
+
+I like:delicious food,coca cola,sleep
+
+
+
