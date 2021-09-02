@@ -1,5 +1,8 @@
-ayout: post
-title: the first post of my blog
-tags: Life
-math: true
-date: 2021-09-02 22:26 +0800
+---
+layout: post
+title: Hello World
+date: 2021-09-02 22:30 +0800
+last_modified_at: 2021-09-02 01:08:25 +0800
+tags: [jekyll theme, jekyll, tutorial]
+toc:  true
+---
