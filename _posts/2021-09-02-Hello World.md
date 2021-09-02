@@ -1,27 +1,18 @@
----
-layout: post
-title: Hello World
-date: 2021-09-02 22:30 +0800
-last_modified_at: 2021-09-02 01:08:25 +0800
-tags: [jekyll theme, jekyll, tutorial]
-toc:  true
+ayout: post
+title: the first post of my blog
+tags: Life
+math: true
+date: 2021-09-02 22:26 +0800
 
-
-#标题#
-
-**标题**
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=34033641&auto=1&height=66"></iframe>
 
 
 
-1. 一
-
-1. 一
-
-
+1. 日期
+2. 地点
+3. 人物
+4. 事件
 
 ![](C:\Users\大漠苍狼\Desktop\文件夹\Mollia.github.io\assets\pictures\洁8.jpg)
 
-
-
-- [x] 
-
+感谢Todd!
