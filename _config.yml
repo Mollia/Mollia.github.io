@@ -2,10 +2,10 @@
 title: Not Pure Poole
 description: A simple, beautiful, and powerful Jekyll theme for blogs
 url: https://vszhub.github.io
-avatar: /avatar.jpeg
+avatar: /avatar.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpg
+cover_image: /bg.jpeg
 
 # Gems
 plugins:
