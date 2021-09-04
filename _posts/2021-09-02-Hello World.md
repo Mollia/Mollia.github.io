@@ -15,7 +15,9 @@ date: 2021-09-02 23:51 +0800
 3. 人物
 4. 事件
 
-![](C:\Users\大漠苍狼\Desktop\文件夹\Mollia.github.io\assets\pictures\洁8.jpg)
+![](C:\Users\大漠苍狼\Desktop\文件夹\Mollia.github.io\assets\pictures\mountain.jpg)
+
+
 
 
 
