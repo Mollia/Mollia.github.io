@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-**the garden of Mollia** is charotic but fantastic. 
+**the garden of Mollia** is chaotic but fantastic. 
 
 
 
