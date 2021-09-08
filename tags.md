@@ -6,3 +6,7 @@ type: tags
 ---
 essay
 Daily
+cooking
+reading comment
+study
+travel
