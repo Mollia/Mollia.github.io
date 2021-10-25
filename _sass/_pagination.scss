@@ -50,3 +50,25 @@ a.pagination-item:hover {
     }
   }
 }
+
+.lists-navigator {
+  margin: 30px 0 35px;
+}
+.lists-navigator ol {
+  margin: 0;
+  padding: 0 10px;
+  list-style: none;
+  text-align: center;
+}
+.lists-navigator ol li {
+  display: inline-block;
+  color: #5f5f5f;
+}
+.lists-navigator ol li a {
+  font-size: 14px;
+  padding: 0 15px;
+  color: #5f5f5f;
+}
+.lists-navigator ol li.current a {
+  color: #eb5055;
+}
