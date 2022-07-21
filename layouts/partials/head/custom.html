@@ -1,0 +1,24 @@
+{{ with $.Params.password }}
+<script>
+    (function () {
+        if ('{{ $.Params.password }}') {
+            if (prompt('猜猜密码是什么呀') !== '{{ $.Params.password }}') {
+                var style = document.createElement("style");
+                style.type = "text/css";
+                style.innerHTML = "body { display: none; }"
+                style.id = "addStyle"
+                document.getElementsByTagName("HEAD").item(0).appendChild(style);
+                alert('猜错了！');
+
+                if (history.length === 1) {
+                    window.opener = null;
+                    window.open('', '_self');
+                    window.close();
+                } else {
+                    history.back();
+                }
+            }
+        }
+    })();
+</script>
+{{ end }}
