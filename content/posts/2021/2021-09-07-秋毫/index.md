@@ -8,6 +8,17 @@ image: images/eastgate.jpg
 
 
 >为全人类的自由与解放斗争！
+2024年3月8日 星期五
+
+&emsp;&emsp;下午可以放假哎，开心，实习生也可以，嘿嘿嘿。
+![](C:\Users\56356\Documents\GitHub\Mollia.github.io\content\posts\2021\2021-09-07-秋毫\images\banners.jpg)
+
+
+
+
+
+
+---
 2024年3月6日 星期三
 
 &emsp;&emsp;为什么总是要下班喊我做事啊，这几天早到公司还加班，烦死了。
