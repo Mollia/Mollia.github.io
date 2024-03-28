@@ -9,6 +9,13 @@ image: images/eastgate.jpg
 
 >为全人类的自由与解放斗争！
 
+2024年3月28日 星期四
+
+&emsp;&emsp;She wouln't be sorry for what she did.
+
+
+---
+
 2024年3月25日 星期一
 
 &emsp;&emsp;窗外有人吊着绳子擦玻璃，像是下雨。
